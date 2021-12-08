@@ -1,0 +1,19 @@
+
+---
+template: IdentityDetailPage
+title: ARRK POOL
+description: SPO
+image: /wcat.jpeg
+website: https://arrk.live
+donationAddress: addr1q9fr0n3dzyw40672afdjgnp8y664k8kcnj9yvqh6xst67g8c6j85ehc86sg609ft87zug0z0em896lp9hl9a7a0nlrkquw4art
+verified: true
+twitter: @jacob_neider
+telegram: @arrkpool
+github: jacobneider 
+
+Any pledge donations will remain in the pool for the life of the pool. In the unlikely event that the pool shoud
+retire, donated pledge will be passed to another stake pool operator (like OTG) to be used as pledge. Maybe in the future we
+could smart contract this concept.
+
+
+---
