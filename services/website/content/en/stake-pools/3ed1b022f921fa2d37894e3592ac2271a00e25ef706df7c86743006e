@@ -1,0 +1,27 @@
+---
+template: PoolDetailPage
+ticker: ARRK
+memberSince: 2021-12-08
+identities:
+  - id: jacobneider
+    role: spo
+- role: producer
+    deviceId: HP EliteDesk 800 G1 DM Core i5-4590T 3.0Ghz 16GB 
+    storage: 16GB 250GB SSD
+  - role: relay
+    name: relay1
+    deviceId: raspberry-pi-4-8gb
+    storage: SAMSUNG SSD 970 EVO Plus 250GB 
+  - role: relay
+    name: relay2
+    deviceId: raspberry-pi-4-8gb
+    storage: SAMSUNG SSD 860 M.2 SATA 250GB
+
+### Pool ID
+
+3ed1b022f921fa2d37894e3592ac2271a00e25ef706df7c86743006e
+
+### Pool Stats
+
+- [pooltool.oi](https://pooltool.io/pool/3ed1b022f921fa2d37894e3592ac2271a00e25ef706df7c86743006e/epochs)
+---
